@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ekta Vora</h1>
 <h3 align="center">Computer Engineering student with hands-on experience through hackathons and projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/360/36033.gif">
