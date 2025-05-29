@@ -1,4 +1,4 @@
-<img width="400" src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif">
+<img width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <h1 align="center">Hi 👋, I'm Ekta Vora</h1>
 <h3 align="center">Computer Engineering student with hands-on experience through hackathons and projects.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/360/36033.gif">
