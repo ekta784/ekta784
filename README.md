@@ -1,17 +1,16 @@
 <img width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <h1 align="center">Hi 👋, I'm Ekta Vora</h1>
-<h3 align="center">Computer Engineering student with hands-on experience through hackathons and projects.</h3>
+<h3 align="center"> Computer Engineering student skilled in web development and AI/ML - focused on building scalable and impactful tech solutions.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/360/36033.gif">
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekta784&label=Profile%20views&color=0e75b6&style=flat" alt="ekta784" /> </p>
 
-- 🔭 I’m currently working on **ML based soil quality and nutrient recommendation system**
+- 🔭 I’m currently working on ** project - Enhanced Soil Quality Classification Using Modified Multilayer Perceptron: Advancing Precision Agriculture Through Deep Learning.**
 
-- 🌱 I’m currently learning **AI/ML**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ekta784](https://github.com/ekta784)
+- 🌱 I’m currently growing **my expertise in building AI/ ML models also learning modern JavaScript and PHP fundamentals.**
 
 - 📫 How to reach me **ektavora0708@gmail.com**
+- ⚡ Fun fact I enjoy turning abstract ideas into real, working products.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
