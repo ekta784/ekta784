@@ -1,11 +1,12 @@
-<img width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img width="1000" src="https://www.adinfosystem.com/images/ai-ml-developers.jpg">
 <h1 align="center">Hi 👋, I'm Ekta Vora</h1>
 <h3 align="center"> Computer Engineering student skilled in web development and AI/ML - focused on building scalable and impactful tech solutions.</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/360/36033.gif">
- -->
+<img align="right" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/360/36033.gif"> -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekta784&label=Profile%20views&color=0e75b6&style=flat" alt="ekta784" /> </p>
 
-- 🔭 I’m currently working on ** project - Enhanced Soil Quality Classification Using Modified Multilayer Perceptron: Advancing Precision Agriculture Through Deep Learning.**
+- 🔭 I’m currently working on **project - Enhanced Soil Quality Classification Using Modified Multilayer Perceptron: Advancing Precision Agriculture Through Deep Learning.**
 
 - 🌱 I’m currently growing **my expertise in building AI/ ML models also learning modern JavaScript and PHP fundamentals.**
 
